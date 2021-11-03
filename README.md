@@ -1,2 +1,3 @@
-# udemyfullstack
-udemy fullstack node react by Stephen Grider
+# Introduction
+
+Udemy course: Docker and Kubernetes: The Complete Guide by Stephen Grider
